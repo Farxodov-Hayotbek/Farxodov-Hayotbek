@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hayotbek</h1>
 <h3 align="center">A passionate Junior DevOps Engineer from Uzbekistan</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif">
+<img align="right" alt="DevOps" width="400" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
+
 
 - 🌱 I’m currently learning **Kubernetes, Terraform, and AWS**
 - 👯 I’m looking to collaborate on **DevOps automation projects**
