@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://telegram.com/in/@HayotbekFarxodov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://email.com/hayotbekfarhodov021@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://t.me/HayotbekFarxodov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="Telegram" height="30" width="40" /></a>>
+<a href="mailto:hayotbekfarhodov021@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
 
 ---
 
