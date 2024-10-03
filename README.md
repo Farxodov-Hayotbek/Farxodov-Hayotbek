@@ -5,19 +5,16 @@
 
 - 🌱 I’m currently learning **Kubernetes, Terraform, and AWS**
 - 👯 I’m looking to collaborate on **DevOps automation projects**
-- 📝 I regularly write articles on [https://yourblog.com](https://yourblog.com)
 - 💬 Ask me about **CI/CD pipelines, Cloud Infrastructure, and Monitoring Tools**
-- 📫 How to reach me **youremail@example.com**
+- 📫 How to reach me **hayotbekfarhodov@gmail.com**
 - ⚡ Fun fact **I love automating everyday tasks with scripts**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/yourtwitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://medium.com/@yourmedium" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Medium" height="30" width="40" /></a>
-</p>
+<a href="https://telegram.com/in/@HayotbekFarxodov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://email.com/hayotbekfarhodov021@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 
 ---
 
