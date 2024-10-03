@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hayotbek</h1>
 <h3 align="center">A passionate Junior DevOps Engineer from Uzbekistan</h3>
 
-<img align="right" alt="DevOps" width="400" src="https://media.giphy.com/media/ZVxoVhYIHRv2mRlcRp/giphy.gif">
+<img align="right" alt="DevOps" width="400" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
+
+
 
 
 
